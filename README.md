@@ -9,5 +9,6 @@
     1. 安装pyaudio  pip3 install pyaudio
     2. 安装pyserial  pip3 install pyserial
     3. 安装wave  pip3 install wave
-In one go: pip3 install pyaudio pyserial wave
+In one go: 
+    pip3 install pyaudio pyserial wave
 ## Enjoy?
